@@ -5,8 +5,8 @@
 
 ## 📋 Student Metadata
 * **Student Name:** Ayalkibet Abriham
-* **Course:** Cybersecurity & Network Administration
-* **Instructor:** Ruth Alemayehu
+* **Course:** Cybersecurity 
+* **Instructor:** 
 * **Date:** September 2026
 
 ---
